@@ -95,7 +95,7 @@ button:focus{
    background-color: #404BBF;
 }
       /*-----section-two-----*/
-h3{
+/*h3{
       color: #2E2F42;
       font-size: 20px;
       font-weight: 500;
@@ -110,7 +110,7 @@ li>p{
       font-weight: 400;
       line-height: 1.5;
       letter-spacing: 0.02em;
-}
+}*/
 
 .team{
    background: #F4F4FD;
@@ -133,12 +133,21 @@ h2{
 
 }
 
-.page-team-title{
-
+.team-title{
+   color: #2E2F42;
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
 }
 
 .team-paragraph{
-   
+   color: #434455;
+   font-family: Roboto;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
 }
 
 ul>li{
