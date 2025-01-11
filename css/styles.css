@@ -125,6 +125,22 @@ h2{
    text-align: center;
 }
 
+.page-team{
+
+}
+
+.team-photo{
+
+}
+
+.page-team-title{
+
+}
+
+.team-paragraph{
+   
+}
+
 ul>li{
    background:#FFFFFF;
 }
@@ -139,7 +155,7 @@ ul>li{
  }
 
 footer>p{
-   /* Body */
+   
       color: #F4F4FD;
       font-size: 16px;
       line-height: 1.5;
