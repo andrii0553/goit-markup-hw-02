@@ -1,7 +1,7 @@
 /*font-family: "Raleway",serif;
  */
  body{
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto",sans-serif;
     color: #434455;
     background-color: #ffffff;
  }
@@ -17,7 +17,7 @@
  */---------------header---------------
 .logo{
    color:#4D5AE5;
-   font-family: "Raleway", sans-serif;
+   font-family: "Raleway",sans-serif;
    font-size: 18px;
    font-weight: 700;
    line-height: 1.17;
@@ -55,13 +55,13 @@
    letter-spacing: 0.02em;
 }
 
-.logo:hover,
+/*.logo:hover,
 h1:hover,
 h2:hover,
 h3:hover,
 li>p:hover{
    text-decoration-line: underline;
-}
+}*/
 
 .nav-link:hover,
 .nav-link:focus,
@@ -163,8 +163,7 @@ ul>li{
     color: #F4F4FD
  }
 
-footer>p{
-   
+.footer-paragraph{
       color: #F4F4FD;
       font-size: 16px;
       line-height: 1.5;
