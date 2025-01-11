@@ -16,7 +16,7 @@
 
  */---------------header---------------
 .logo{
-   color:#4D5AE5;
+   color:#4d5ae5;
    font-family: "Raleway",sans-serif;
    font-size: 18px;
    font-weight: 700;
@@ -55,13 +55,13 @@
    letter-spacing: 0.02em;
 }
 
-/*.logo:hover,
+.logo:hover,
 h1:hover,
 h2:hover,
 h3:hover,
 li>p:hover{
    text-decoration-line: underline;
-}*/
+}
 
 .nav-link:hover,
 .nav-link:focus,
@@ -123,6 +123,10 @@ h2{
    line-height: 1.11;
    letter-spacing: 0.02em;
    text-align: center;
+}
+
+.team-list{
+
 }
 
 .page-team{
