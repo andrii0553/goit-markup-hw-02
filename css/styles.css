@@ -94,8 +94,18 @@ button:hover,
 button:focus{
    background-color: #404BBF;
 }
-      /*-----section-two-----*/
-/*h3{
+      /*-----section-two--strategy---*/
+h2 {
+   color: #2E2F42;
+   font-size: 36px;
+   font-weight: 700;
+   line-height: 1.11;
+   letter-spacing: 0.02em;
+   text-align: center;
+   text-transform: capitalize;
+}
+
+h3{
       color: #2E2F42;
       font-size: 20px;
       font-weight: 500;
@@ -110,19 +120,34 @@ li>p{
       font-weight: 400;
       line-height: 1.5;
       letter-spacing: 0.02em;
-}*/
+}
+
+.strategy{
+
+}
+
+.title-strategy{
+
+}
+
+.stranegy-box{
+
+}
+
+.item-strategy{
+
+}
+
+.strategy-title-list{
+
+}
+
+.strategy-paragraph{
+   
+}
 
 .team{
    background: #F4F4FD;
-}
-
-h2{
-   color: #2E2F42;
-   font-size: 36px;  
-   font-weight: 700;
-   line-height: 1.11;
-   letter-spacing: 0.02em;
-   text-align: center;
 }
 
 .team-box{
@@ -133,32 +158,36 @@ h2{
 
 }
 
+.team-item{
+
+}
+
 .team-photo{
 
 }
 
 .team-title{
-   color: #2E2F42;
+  /* color: #2E2F42;
    font-size: 20px;
    font-weight: 500;
    line-height: 1.2;
-   letter-spacing: 0.02em;
-   text-transform: capitalize;
+   letter-spacing: 0.02em;*/
+   
 }
 
 .team-paragraph{
-   color: #434455;
+   /*color: #434455;
    font-family: Roboto;
    font-size: 16px;
    font-weight: 400;
    line-height: 1.5;
-   letter-spacing: 0.02em;
+   letter-spacing: 0.02em;*/
 }
 /*------------Portfolio------------*/
 .portfolio{
 
 }
-.titlt-portfolio{
+.title-portfolio{
 
 }
 
@@ -174,7 +203,7 @@ h2{
 
 }
 
-.portfolio-title{
+.portfolio-title-list{
 
 }
 
